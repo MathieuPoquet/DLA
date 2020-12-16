@@ -107,7 +107,7 @@ def modif_corpus(corpus,question_type,suppr_debut = True,suppr_interrogation = T
 from torch.utils.data import DataLoader
 
 # Précisez la localisation de vos données sur Google Drive
-path = "C:/Users/Mathieu/Documents/école/3A/deep_learning/DLA/projet"
+path = "harispe"
 image_folder = "boolean_answers_dataset_images_10000"
 descriptor = "boolean_answers_dataset_10000.csv"
 
